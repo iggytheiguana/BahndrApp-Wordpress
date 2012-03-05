@@ -1,0 +1,1239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iPhone App v1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-01-17 10:22+0000\n"
+"Last-Translator: admin  <saqibk@in.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments-old.php:110
+#: comments-old.php:113
+#: comments.php:93
+#: comments.php:96
+#@ ptthemes_page_title
+msgid "*"
+msgstr ""
+
+#: library/functions/admin_options.php:109
+#@ ptthemes_page_title
+msgid "Default Image Cutting Edge"
+msgstr ""
+
+#: library/functions/admin_options.php:110
+#@ ptthemes_page_title
+msgid "Set Default Image Cutting Edge Position."
+msgstr ""
+
+#: library/functions/widgets_functions.php:577
+#@ ptthemes_page_title
+msgid "Twitter Account ID:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:369
+#: library/functions/widgets_functions.php:491
+#: library/functions/widgets_functions.php:581
+#@ ptthemes_page_title
+msgid "Title:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:585
+#@ ptthemes_page_title
+msgid "Show Twitter Posts:"
+msgstr ""
+
+#: library/functions/yoast-posts.php:23
+#@ ptthemes_page_title
+msgid "Yoast - Tweaking Websites"
+msgstr ""
+
+#: search.php:6
+#, php-format
+#@ ptthemes_page_title
+msgid "%s"
+msgstr ""
+
+#: comments.php:4
+#@ ptthemes_page_title
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: functions.php:67
+#@ ptthemes_page_title
+msgid "<p><b>All Dummy data has been removed from your database successfully!</b></p>"
+msgstr ""
+
+#: functions.php:75
+#@ ptthemes_page_title
+msgid "<p class=\"message\">Theme activated successfully.</p>"
+msgstr ""
+
+#: library/functions/admin_options.php:7
+#@ ptthemes_page_title
+msgid "General Settings"
+msgstr ""
+
+#: library/functions/admin_options.php:10
+#@ ptthemes_page_title
+msgid "Theme Skin"
+msgstr ""
+
+#: library/functions/admin_options.php:14
+#@ ptthemes_page_title
+msgid "Please select the CSS skin of your blog here."
+msgstr ""
+
+#: library/functions/admin_options.php:16
+#@ ptthemes_page_title
+msgid "Select a CSS skin:"
+msgstr ""
+
+#: library/functions/admin_options.php:22
+#@ ptthemes_page_title
+msgid "Customize Your Design"
+msgstr ""
+
+#: library/functions/admin_options.php:26
+#@ ptthemes_page_title
+msgid "Use Custom Stylesheet"
+msgstr ""
+
+#: library/functions/admin_options.php:38
+#@ ptthemes_page_title
+msgid "Paste the full URL for your favicon image here if you wish to show it in browsers. <a href='http://www.favicon.cc/'>Create one here</a>"
+msgstr ""
+
+#: library/functions/admin_options.php:45
+#@ ptthemes_page_title
+msgid "Header Your Logo Image Set"
+msgstr ""
+
+#: library/functions/admin_options.php:49
+#@ ptthemes_page_title
+msgid "Choose Your logo Image"
+msgstr ""
+
+#: library/functions/admin_options.php:50
+#@ ptthemes_page_title
+msgid "Paste the full URL to your logo image here."
+msgstr ""
+
+#: library/functions/admin_options.php:55
+#@ ptthemes_page_title
+msgid "Choose Blog Title over Logo"
+msgstr ""
+
+#: library/functions/admin_options.php:57
+#@ ptthemes_page_title
+msgid "Show Blog Title."
+msgstr ""
+
+#: library/functions/admin_options.php:64
+#@ ptthemes_page_title
+msgid "Comments Appearance"
+msgstr ""
+
+#: library/functions/admin_options.php:68
+#@ ptthemes_page_title
+msgid "Display Comments Count"
+msgstr ""
+
+#: library/functions/admin_options.php:69
+#@ ptthemes_page_title
+msgid "Show comments count in Front/Archive"
+msgstr ""
+
+#: library/functions/admin_options.php:76
+#@ ptthemes_page_title
+msgid "Thumbnail Images Appearance"
+msgstr ""
+
+#: library/functions/admin_options.php:80
+#@ ptthemes_page_title
+msgid "Display auto resized images"
+msgstr ""
+
+#: library/functions/admin_options.php:81
+#@ ptthemes_page_title
+msgid "Show of thumbnail images displayed in post archives/search results"
+msgstr ""
+
+#: library/functions/admin_options.php:86
+#@ ptthemes_page_title
+msgid "Show auto resized images in single posts"
+msgstr ""
+
+#: library/functions/admin_options.php:87
+#@ ptthemes_page_title
+msgid "Show thumbnail images displayed in single posts on top right corner"
+msgstr ""
+
+#: library/functions/admin_options.php:94
+#@ ptthemes_page_title
+msgid "Syndication / Feed"
+msgstr ""
+
+#: library/functions/admin_options.php:98
+#@ ptthemes_page_title
+msgid "If you are using a service like Feedburner to manage your RSS feed, enter full URL to your feed into box above. If you'd prefer to use the default WordPress feed, simply leave this box blank."
+msgstr ""
+
+#: library/functions/admin_options.php:105
+#@ ptthemes_page_title
+msgid "Image Setting (Tim thumb setting - Image Cutting Edge)"
+msgstr ""
+
+#: library/functions/admin_options.php:123
+#@ ptthemes_page_title
+msgid "Contact Form Settings"
+msgstr ""
+
+#: library/functions/admin_options.php:126
+#@ ptthemes_page_title
+msgid "Contact Name"
+msgstr ""
+
+#: library/functions/admin_options.php:130
+#@ ptthemes_page_title
+msgid "Name Info"
+msgstr ""
+
+#: library/functions/admin_options.php:138
+#@ ptthemes_page_title
+msgid "Email Address"
+msgstr ""
+
+#: library/functions/admin_options.php:142
+#@ ptthemes_page_title
+msgid "Email Address Here"
+msgstr ""
+
+#: library/functions/admin_options.php:155
+#@ ptthemes_page_title
+msgid "Navigation Settings"
+msgstr ""
+
+#: library/functions/admin_options.php:158
+#@ ptthemes_page_title
+msgid "Exclude Pages from Header Menu"
+msgstr ""
+
+#: library/functions/admin_options.php:172
+#@ ptthemes_page_title
+msgid "Home Page Features Settings"
+msgstr ""
+
+#: library/functions/admin_options.php:176
+#: library/functions/admin_options.php:203
+#: library/functions/widgets_functions.php:276
+#@ ptthemes_page_title
+msgid "Description"
+msgstr ""
+
+#: library/functions/admin_options.php:180
+#@ ptthemes_page_title
+msgid "Enter Top Home Page iPhone App Description."
+msgstr ""
+
+#: library/functions/admin_options.php:188
+#@ ptthemes_page_title
+msgid "Top Header Settings"
+msgstr ""
+
+#: library/functions/admin_options.php:195
+#@ ptthemes_page_title
+msgid "Sub Title."
+msgstr ""
+
+#: library/functions/admin_options.php:207
+#@ ptthemes_page_title
+msgid "Enter Top Header content."
+msgstr ""
+
+#: library/functions/admin_options.php:214
+#@ ptthemes_page_title
+msgid "App Store Image Change"
+msgstr ""
+
+#: library/functions/admin_options.php:218
+#@ ptthemes_page_title
+msgid "App Store Image URL (http://templatic.com/images/appstore.png)"
+msgstr ""
+
+#: library/functions/admin_options.php:225
+#@ ptthemes_page_title
+msgid "App Store Image link"
+msgstr ""
+
+#: library/functions/admin_options.php:229
+#@ ptthemes_page_title
+msgid "App Store Image 1 link."
+msgstr ""
+
+#: library/functions/admin_options.php:236
+#: library/functions/admin_options.php:240
+#@ ptthemes_page_title
+msgid "Remove Header Navigation Page Link Ajax Loading"
+msgstr ""
+
+#: library/functions/admin_options.php:241
+#@ ptthemes_page_title
+msgid "Do you want to apply page refresh and remove ajax loading?"
+msgstr ""
+
+#: library/functions/admin_options.php:251
+#@ ptthemes_page_title
+msgid "Top Header iPhone Slider Settings"
+msgstr ""
+
+#: library/functions/admin_options.php:255
+#@ ptthemes_page_title
+msgid "Select iPhone Horizontal or Vertical"
+msgstr ""
+
+#: library/functions/admin_options.php:259
+#@ ptthemes_page_title
+msgid "Do you want to header section iPhone Horizontal or Vertical."
+msgstr ""
+
+#: library/functions/admin_options.php:266
+#@ ptthemes_page_title
+msgid "Select Images Slider or Video"
+msgstr ""
+
+#: library/functions/admin_options.php:270
+#@ ptthemes_page_title
+msgid "Do you want to header section iPhone Images Slider or Video."
+msgstr ""
+
+#: library/functions/admin_options.php:279
+#@ ptthemes_page_title
+msgid "iPhone App Price"
+msgstr ""
+
+#: library/functions/admin_options.php:283
+#@ ptthemes_page_title
+msgid "Enter iPhone App Price (ex.$1.08)"
+msgstr ""
+
+#: library/functions/admin_options.php:291
+#@ ptthemes_page_title
+msgid "iPhone App PDF Manual URL Link"
+msgstr ""
+
+#: library/functions/admin_options.php:295
+#@ ptthemes_page_title
+msgid "Enter iPhone App PDF Manual URL Link"
+msgstr ""
+
+#: library/functions/admin_options.php:304
+#@ ptthemes_page_title
+msgid "Slider Images"
+msgstr ""
+
+#: library/functions/admin_options.php:308
+#@ ptthemes_page_title
+msgid "Enter Slider Image 1 full url link"
+msgstr ""
+
+#: library/functions/admin_options.php:313
+#@ ptthemes_page_title
+msgid "Enter Slider Image 2 full url link"
+msgstr ""
+
+#: library/functions/admin_options.php:318
+#@ ptthemes_page_title
+msgid "Enter Slider Image 3 full url link"
+msgstr ""
+
+#: library/functions/admin_options.php:323
+#@ ptthemes_page_title
+msgid "Enter Slider Image 4 full url link"
+msgstr ""
+
+#: library/functions/admin_options.php:328
+#@ ptthemes_page_title
+msgid "Enter Slider Image 5 full url link"
+msgstr ""
+
+#: library/functions/admin_options.php:337
+#@ ptthemes_page_title
+msgid "Video Settings"
+msgstr ""
+
+#: library/functions/admin_options.php:341
+#@ ptthemes_page_title
+msgid "Enter iPhone App Video Screenshot URL link Here"
+msgstr ""
+
+#: library/functions/admin_options.php:346
+#@ ptthemes_page_title
+msgid "Enter iPhone App Video Embed Code Here"
+msgstr ""
+
+#: library/functions/admin_options.php:364
+#@ ptthemes_page_title
+msgid "Blog Section Settings"
+msgstr ""
+
+#: library/functions/admin_options.php:367
+#@ ptthemes_page_title
+msgid "Pick Category for Your Blog Posts"
+msgstr ""
+
+#: library/functions/admin_options.php:371
+#@ ptthemes_page_title
+msgid "Select a category for your blog posts"
+msgstr ""
+
+#: library/functions/admin_options.php:372
+#@ ptthemes_page_title
+msgid "Pick a category where your blog posts will be. It is advisable to create category and name it 'blog'. After that put all other blog categories as child categories of 'blog' so you don't need to change categories in posts."
+msgstr ""
+
+#: library/functions/admin_options.php:383
+#@ ptthemes_page_title
+msgid "Display Full Post Content"
+msgstr ""
+
+#: library/functions/admin_options.php:384
+#@ ptthemes_page_title
+msgid "Instead of default Post excerpts display Full Post Content in Blog Section"
+msgstr ""
+
+#: library/functions/admin_options.php:393
+#@ ptthemes_page_title
+msgid "Show Page Main Title"
+msgstr ""
+
+#: library/functions/admin_options.php:397
+#@ ptthemes_page_title
+msgid "Do you want to show Page Title yes or no."
+msgstr ""
+
+#: library/functions/admin_options.php:412
+#@ ptthemes_page_title
+msgid "Site Header & Footer Stats and Scripts"
+msgstr ""
+
+#: library/functions/admin_options.php:415
+#@ ptthemes_page_title
+msgid "Blog Header Scripts"
+msgstr ""
+
+#: library/functions/admin_options.php:419
+#@ ptthemes_page_title
+msgid "Header Scripts"
+msgstr ""
+
+#: library/functions/admin_options.php:420
+#@ ptthemes_page_title
+msgid "If you need to add scripts to your header (like <a href='http://haveamint.com/'>Mint</a> tracking code), do so here."
+msgstr ""
+
+#: library/functions/admin_options.php:427
+#@ ptthemes_page_title
+msgid "Blog Footer Scripts"
+msgstr ""
+
+#: library/functions/admin_options.php:431
+#@ ptthemes_page_title
+msgid "Footer Scripts"
+msgstr ""
+
+#: library/functions/admin_options.php:432
+#@ ptthemes_page_title
+msgid "If you need to add scripts to your footer (like <a href='http://www.google.com/analytics/'>Google Analytics</a> tracking code), do so here."
+msgstr ""
+
+#: library/functions/admin_options.php:443
+#@ ptthemes_page_title
+msgid "SEO Options"
+msgstr ""
+
+#: library/functions/admin_options.php:446
+#@ ptthemes_page_title
+msgid "Home Page <code>&lt;meta&gt;</code> tags"
+msgstr ""
+
+#: library/functions/admin_options.php:450
+#@ ptthemes_page_title
+msgid "Meta Description"
+msgstr ""
+
+#: library/functions/admin_options.php:451
+#@ ptthemes_page_title
+msgid "You should use meta descriptions to provide search engines with additional information about topics that appear on your site. This only applies to your home page."
+msgstr ""
+
+#: library/functions/admin_options.php:456
+#@ ptthemes_page_title
+msgid "Meta Keywords (comma separated)"
+msgstr ""
+
+#: library/functions/admin_options.php:457
+#@ ptthemes_page_title
+msgid "Meta keywords are rarely used nowadays but you can still provide search engines with additional information about topics that appear on your site. This only applies to your home page."
+msgstr ""
+
+#: library/functions/admin_options.php:462
+#@ ptthemes_page_title
+msgid "Meta Author"
+msgstr ""
+
+#: library/functions/admin_options.php:463
+#@ ptthemes_page_title
+msgid "You should write your <em>full name</em> here but only do so if this blog is writen only by one outhor. This only applies to your home page."
+msgstr ""
+
+#: library/functions/admin_options.php:470
+#@ ptthemes_page_title
+msgid "Add <code>&lt;noindex&gt;</code> tags"
+msgstr ""
+
+#: library/functions/admin_options.php:474
+#@ ptthemes_page_title
+msgid "Add <code>&lt;noindex&gt;</code> to category archives."
+msgstr ""
+
+#: library/functions/admin_options.php:479
+#@ ptthemes_page_title
+msgid "Add <code>&lt;noindex&gt;</code> to tag archives."
+msgstr ""
+
+#: library/functions/admin_options.php:484
+#@ ptthemes_page_title
+msgid "Add <code>&lt;noindex&gt;</code> to author archives."
+msgstr ""
+
+#: library/functions/admin_options.php:489
+#@ ptthemes_page_title
+msgid "Add <code>&lt;noindex&gt;</code> to Search Results."
+msgstr ""
+
+#: library/functions/admin_options.php:494
+#@ ptthemes_page_title
+msgid "Add <code>&lt;noindex&gt;</code> to daily archives."
+msgstr ""
+
+#: library/functions/admin_options.php:499
+#@ ptthemes_page_title
+msgid "Add <code>&lt;noindex&gt;</code> to monthly archives."
+msgstr ""
+
+#: library/functions/admin_options.php:504
+#@ ptthemes_page_title
+msgid "Add <code>&lt;noindex&gt;</code> to yearly archives."
+msgstr ""
+
+#: library/functions/admin_options.php:518
+#@ ptthemes_page_title
+msgid "Translations"
+msgstr ""
+
+#: library/functions/admin_options.php:521
+#@ ptthemes_page_title
+msgid "General Text"
+msgstr ""
+
+#: library/functions/admin_options.php:525
+#@ ptthemes_page_title
+msgid "Change Home link text - next to category menu in header"
+msgstr ""
+
+#: library/functions/admin_options.php:530
+#@ ptthemes_page_title
+msgid "Change Search text"
+msgstr ""
+
+#: library/functions/admin_options.php:535
+#@ ptthemes_page_title
+msgid "Change Nothing Found for Search text"
+msgstr ""
+
+#: library/functions/admin_options.php:537
+#@ ptthemes_page_title
+msgid "Nothing found, please search again."
+msgstr ""
+
+#: library/functions/admin_options.php:540
+#@ ptthemes_page_title
+msgid "Change Tags text"
+msgstr ""
+
+#: library/functions/admin_options.php:547
+#@ ptthemes_page_title
+msgid "Archives Text"
+msgstr ""
+
+#: library/functions/admin_options.php:551
+#@ ptthemes_page_title
+msgid "Change Browsing Category text"
+msgstr ""
+
+#: library/functions/admin_options.php:553
+#@ ptthemes_page_title
+msgid "Browsing Category"
+msgstr ""
+
+#: library/functions/admin_options.php:556
+#@ ptthemes_page_title
+msgid "Change Browsing Tag text"
+msgstr ""
+
+#: library/functions/admin_options.php:558
+#@ ptthemes_page_title
+msgid "Browsing Tag"
+msgstr ""
+
+#: library/functions/admin_options.php:561
+#@ ptthemes_page_title
+msgid "Change Browsing Author text"
+msgstr ""
+
+#: library/functions/admin_options.php:563
+#@ ptthemes_page_title
+msgid "Browsing Posts of Author"
+msgstr ""
+
+#: library/functions/admin_options.php:566
+#@ ptthemes_page_title
+msgid "Change Browsing Search text"
+msgstr ""
+
+#: library/functions/admin_options.php:568
+#@ ptthemes_page_title
+msgid "Browsing Posts filed under Search Term"
+msgstr ""
+
+#: library/functions/admin_options.php:571
+#@ ptthemes_page_title
+msgid "Change Browsing Day text"
+msgstr ""
+
+#: library/functions/admin_options.php:573
+#@ ptthemes_page_title
+msgid "Browsing Day"
+msgstr ""
+
+#: library/functions/admin_options.php:576
+#@ ptthemes_page_title
+msgid "Change Browsing Month text"
+msgstr ""
+
+#: library/functions/admin_options.php:578
+#@ ptthemes_page_title
+msgid "Browsing Month"
+msgstr ""
+
+#: library/functions/admin_options.php:581
+#@ ptthemes_page_title
+msgid "Change Browsing Year text"
+msgstr ""
+
+#: library/functions/admin_options.php:583
+#@ ptthemes_page_title
+msgid "Browsing Year"
+msgstr ""
+
+#: library/functions/admin_options.php:588
+#@ ptthemes_page_title
+msgid "404 Error Text"
+msgstr ""
+
+#: library/functions/admin_options.php:592
+#@ ptthemes_page_title
+msgid "Change 404 error text"
+msgstr ""
+
+#: library/functions/admin_options.php:594
+#@ ptthemes_page_title
+msgid "Error 404 | Nothing found!"
+msgstr ""
+
+#: library/functions/admin_options.php:597
+#@ ptthemes_page_title
+msgid "Change 404 error solution text"
+msgstr ""
+
+#: library/functions/admin_options.php:599
+#@ ptthemes_page_title
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+#: library/functions/admin_options.php:604
+#@ ptthemes_page_title
+msgid "Comments Text"
+msgstr ""
+
+#: library/functions/admin_options.php:608
+#@ ptthemes_page_title
+msgid "Change password protected text"
+msgstr ""
+
+#: library/functions/admin_options.php:610
+#@ ptthemes_page_title
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: library/functions/admin_options.php:613
+#@ ptthemes_page_title
+msgid "Change no responses text"
+msgstr ""
+
+#: library/functions/admin_options.php:615
+#@ ptthemes_page_title
+msgid "No Comments"
+msgstr ""
+
+#: library/functions/admin_options.php:618
+#@ ptthemes_page_title
+msgid "Change one response text"
+msgstr ""
+
+#: library/functions/admin_options.php:620
+#@ ptthemes_page_title
+msgid "One Comment"
+msgstr ""
+
+#: library/functions/admin_options.php:623
+#@ ptthemes_page_title
+msgid "Change multiple responses text, leave % intact!"
+msgstr ""
+
+#: library/functions/admin_options.php:625
+#@ ptthemes_page_title
+msgid "% Comments"
+msgstr ""
+
+#: library/functions/admin_options.php:628
+#@ ptthemes_page_title
+msgid "Change trackbacks text"
+msgstr ""
+
+#: library/functions/admin_options.php:630
+#@ ptthemes_page_title
+msgid "Trackbacks For This Post"
+msgstr ""
+
+#: library/functions/admin_options.php:633
+#@ ptthemes_page_title
+msgid "Change comment moderation text"
+msgstr ""
+
+#: library/functions/admin_options.php:640
+#@ ptthemes_page_title
+msgid "Be the first to start a conversation"
+msgstr ""
+
+#: library/functions/admin_options.php:643
+#@ ptthemes_page_title
+msgid "Change closed comments text"
+msgstr ""
+
+#: library/functions/admin_options.php:645
+#@ ptthemes_page_title
+msgid "Comments are closed."
+msgstr ""
+
+#: library/functions/admin_options.php:648
+#@ ptthemes_page_title
+msgid "Change disabled comments text"
+msgstr ""
+
+#: library/functions/admin_options.php:650
+#@ ptthemes_page_title
+msgid "Comments are off for this post"
+msgstr ""
+
+#: library/functions/admin_options.php:653
+#@ ptthemes_page_title
+msgid "Change leave a reply text"
+msgstr ""
+
+#: library/functions/admin_options.php:655
+#@ ptthemes_page_title
+msgid "Leave a Reply"
+msgstr ""
+
+#: library/functions/admin_options.php:658
+#@ ptthemes_page_title
+msgid "Change 'you must be' text"
+msgstr ""
+
+#: library/functions/admin_options.php:660
+#@ ptthemes_page_title
+msgid "You must be"
+msgstr ""
+
+#: library/functions/admin_options.php:663
+#@ ptthemes_page_title
+msgid "Change 'logged in' text"
+msgstr ""
+
+#: library/functions/admin_options.php:665
+#@ ptthemes_page_title
+msgid "logged in"
+msgstr ""
+
+#: library/functions/admin_options.php:668
+#@ ptthemes_page_title
+msgid "Change 'to post a comment' text"
+msgstr ""
+
+#: library/functions/admin_options.php:670
+#@ ptthemes_page_title
+msgid "to post a comment."
+msgstr ""
+
+#: library/functions/admin_options.php:673
+#@ ptthemes_page_title
+msgid "Change Logout text"
+msgstr ""
+
+#: library/functions/admin_options.php:675
+#@ ptthemes_page_title
+msgid "Logout"
+msgstr ""
+
+#: library/functions/admin_options.php:678
+#@ ptthemes_page_title
+msgid "Change name text"
+msgstr ""
+
+#: library/functions/admin_options.php:683
+#@ ptthemes_page_title
+msgid "Change mail text"
+msgstr ""
+
+#: library/functions/admin_options.php:685
+#@ ptthemes_page_title
+msgid "Mail"
+msgstr ""
+
+#: library/functions/admin_options.php:688
+#@ ptthemes_page_title
+msgid "Change website text"
+msgstr ""
+
+#: library/functions/admin_options.php:690
+#@ ptthemes_page_title
+msgid "Website"
+msgstr ""
+
+#: library/functions/admin_options.php:693
+#@ ptthemes_page_title
+msgid "Change add comment text"
+msgstr ""
+
+#: library/functions/admin_options.php:695
+#@ ptthemes_page_title
+msgid "Add Comment"
+msgstr ""
+
+#: library/functions/admin_options.php:698
+#@ ptthemes_page_title
+msgid "Change 'reply' to threaded comment text"
+msgstr ""
+
+#: library/functions/admin_options.php:700
+#@ ptthemes_page_title
+msgid "Reply"
+msgstr ""
+
+#: library/functions/admin_options.php:703
+#@ ptthemes_page_title
+msgid "Change 'edit' comment text, only visible to administrators"
+msgstr ""
+
+#: library/functions/admin_options.php:705
+#@ ptthemes_page_title
+msgid "Edit"
+msgstr ""
+
+#: library/functions/admin_options.php:708
+#@ ptthemes_page_title
+msgid "Change 'delete' comment text, only visible to administrators"
+msgstr ""
+
+#: library/functions/admin_options.php:710
+#@ ptthemes_page_title
+msgid "Delete"
+msgstr ""
+
+#: library/functions/admin_options.php:713
+#@ ptthemes_page_title
+msgid "Change 'spam' comment text, only visible to administrators"
+msgstr ""
+
+#: library/functions/admin_options.php:715
+#@ ptthemes_page_title
+msgid "Spam"
+msgstr ""
+
+#: library/functions/admin_options.php:720
+#@ ptthemes_page_title
+msgid "Pagination Text"
+msgstr ""
+
+#: library/functions/admin_options.php:724
+#@ ptthemes_page_title
+msgid "Change first page text"
+msgstr ""
+
+#: library/functions/admin_options.php:726
+#@ ptthemes_page_title
+msgid "First"
+msgstr ""
+
+#: library/functions/admin_options.php:729
+#@ ptthemes_page_title
+msgid "Change last page text"
+msgstr ""
+
+#: library/functions/admin_options.php:731
+#@ ptthemes_page_title
+msgid "Last"
+msgstr ""
+
+#: library/functions/admin_options.php:736
+#@ ptthemes_page_title
+msgid "Relative Dates Text"
+msgstr ""
+
+#: library/functions/admin_options.php:740
+#@ ptthemes_page_title
+msgid "Change Posted text"
+msgstr ""
+
+#: library/functions/admin_options.php:742
+#@ ptthemes_page_title
+msgid "Posted"
+msgstr ""
+
+#: library/functions/admin_options.php:745
+#@ ptthemes_page_title
+msgid "Change Ago text"
+msgstr ""
+
+#: library/functions/admin_options.php:747
+#@ ptthemes_page_title
+msgid "ago"
+msgstr ""
+
+#: library/functions/admin_options.php:750
+#@ ptthemes_page_title
+msgid "Change plural text&nbsp;  [ i.e. hour &rarr; hours ]"
+msgstr ""
+
+#: library/functions/admin_options.php:755
+#@ ptthemes_page_title
+msgid "Change Year text"
+msgstr ""
+
+#: library/functions/admin_options.php:760
+#@ ptthemes_page_title
+msgid "Change Month text"
+msgstr ""
+
+#: library/functions/admin_options.php:765
+#@ ptthemes_page_title
+msgid "Change Week text"
+msgstr ""
+
+#: library/functions/admin_options.php:770
+#@ ptthemes_page_title
+msgid "Change Day text"
+msgstr ""
+
+#: library/functions/admin_options.php:775
+#@ ptthemes_page_title
+msgid "Change Hour text"
+msgstr ""
+
+#: library/functions/admin_options.php:780
+#@ ptthemes_page_title
+msgid "Change Minute text"
+msgstr ""
+
+#: library/functions/admin_options.php:785
+#@ ptthemes_page_title
+msgid "Change Second text"
+msgstr ""
+
+#: library/functions/admin_options.php:790
+#@ ptthemes_page_title
+msgid "Change Moments text"
+msgstr ""
+
+#: library/functions/admin_settings.php:96
+#@ ptthemes_page_title
+msgid "Theme Options"
+msgstr ""
+
+#: library/functions/admin_settings.php:100
+#@ ptthemes_page_title
+msgid "Show/Hide All Options"
+msgstr ""
+
+#: library/functions/admin_settings.php:298
+#@ ptthemes_page_title
+msgid "Save changes"
+msgstr ""
+
+#: library/functions/admin_settings.php:304
+#@ ptthemes_page_title
+msgid "Reset"
+msgstr ""
+
+#: library/functions/custom_functions.php:13
+#@ ptthemes_page_title
+msgid "Custom Image Location"
+msgstr ""
+
+#: library/functions/custom_functions.php:15
+#@ ptthemes_page_title
+msgid "Enter full URL path for image to be used by the Dynamic Image resizer. (including <code>http://</code>). Image must be uploaded to your blog or it won't resize due to copyright restrictions of TimThumb script. You also need to Chmod <code>cache</code> folder in theme files to 777 restrictions."
+msgstr ""
+
+#: library/functions/widgets_functions.php:24
+#@ ptthemes_page_title
+msgid "Testimonials"
+msgstr ""
+
+#: library/functions/widgets_functions.php:25
+#@ ptthemes_page_title
+msgid "PT &rarr; Testimonials"
+msgstr ""
+
+#: library/functions/widgets_functions.php:75
+#@ ptthemes_page_title
+msgid "More reviews and buzz &raquo;"
+msgstr ""
+
+#: library/functions/widgets_functions.php:116
+#@ ptthemes_page_title
+msgid "Testimonials 1"
+msgstr ""
+
+#: library/functions/widgets_functions.php:117
+#@ ptthemes_page_title
+msgid "Author Name 1"
+msgstr ""
+
+#: library/functions/widgets_functions.php:118
+#@ ptthemes_page_title
+msgid "Testimonials 2"
+msgstr ""
+
+#: library/functions/widgets_functions.php:119
+#@ ptthemes_page_title
+msgid "Author Name 2"
+msgstr ""
+
+#: library/functions/widgets_functions.php:120
+#@ ptthemes_page_title
+msgid "Testimonials 3"
+msgstr ""
+
+#: library/functions/widgets_functions.php:121
+#@ ptthemes_page_title
+msgid "Author Name 3"
+msgstr ""
+
+#: library/functions/widgets_functions.php:122
+#@ ptthemes_page_title
+msgid "Testimonials 4"
+msgstr ""
+
+#: library/functions/widgets_functions.php:123
+#@ ptthemes_page_title
+msgid "Author Name 4"
+msgstr ""
+
+#: library/functions/widgets_functions.php:124
+#@ ptthemes_page_title
+msgid "Testimonials 5"
+msgstr ""
+
+#: library/functions/widgets_functions.php:125
+#@ ptthemes_page_title
+msgid "Author Name 5"
+msgstr ""
+
+#: library/functions/widgets_functions.php:126
+#@ ptthemes_page_title
+msgid "More reviews and buzz url link here (ex.http://templatic.com/review)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:138
+#@ ptthemes_page_title
+msgid "Connect"
+msgstr ""
+
+#: library/functions/widgets_functions.php:139
+#@ ptthemes_page_title
+msgid "PT &rarr; Connect"
+msgstr ""
+
+#: library/functions/widgets_functions.php:223
+#: library/functions/widgets_functions.php:274
+#: library/functions/widgets_functions.php:318
+#@ ptthemes_page_title
+msgid "Widget Title:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:224
+#: library/functions/widgets_functions.php:372
+#@ ptthemes_page_title
+msgid "Text Under Title:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:226
+#@ ptthemes_page_title
+msgid "Twitter: (write full URL)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:228
+#@ ptthemes_page_title
+msgid "LinkedIn: (write full URL)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:230
+#@ ptthemes_page_title
+msgid "Facebook: (write full URL)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:232
+#@ ptthemes_page_title
+msgid "Digg It: (write full URL)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:234
+#@ ptthemes_page_title
+msgid "RSS FEED: (write full URL)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:246
+#@ ptthemes_page_title
+msgid "About us Widget"
+msgstr ""
+
+#: library/functions/widgets_functions.php:247
+#@ ptthemes_page_title
+msgid "PT &rarr; About us"
+msgstr ""
+
+#: library/functions/widgets_functions.php:287
+#@ ptthemes_page_title
+msgid "Footer Navigation"
+msgstr ""
+
+#: library/functions/widgets_functions.php:288
+#@ ptthemes_page_title
+msgid "PT &rarr; Footer Navigation"
+msgstr ""
+
+#: library/functions/widgets_functions.php:320
+#@ ptthemes_page_title
+msgid "Page id (ex:3,2,4)"
+msgstr ""
+
+#: library/functions/widgets_functions.php:346
+#@ ptthemes_page_title
+msgid "Your Email Address"
+msgstr ""
+
+#: library/functions/widgets_functions.php:375
+#@ ptthemes_page_title
+msgid "Feedburner ID <small>(example: templatic/eKPs)</small>:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:401
+#@ ptthemes_page_title
+msgid "Flickr Photostream"
+msgstr ""
+
+#: library/functions/widgets_functions.php:420
+#@ ptthemes_page_title
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: library/functions/widgets_functions.php:423
+#@ ptthemes_page_title
+msgid "Number of photos:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:442
+#@ ptthemes_page_title
+msgid "Popular Posts"
+msgstr ""
+
+#: library/functions/widgets_functions.php:494
+#@ ptthemes_page_title
+msgid "Number of popular posts:"
+msgstr ""
+
+#: library/functions/widgets_functions.php:554
+#@ ptthemes_page_title
+msgid "Twitter Updates"
+msgstr ""
+
+#: library/functions/widgets_functions.php:593
+#: library/functions/widgets_functions.php:596
+#@ ptthemes_page_title
+msgid "PT &rarr; Twitter"
+msgstr ""
+
+#: library/includes/header_vertical.php:30
+#@ ptthemes_page_title
+msgid "Download"
+msgstr ""
+
+#: library/includes/header_vertical.php:31
+#@ ptthemes_page_title
+msgid "PDF Manual"
+msgstr ""
+
+#: search.php:65
+#@ ptthemes_page_title
+msgid "Category :"
+msgstr ""
+
+#: tpl_contact.php:78
+#@ ptthemes_page_title
+msgid "Your Name (required)"
+msgstr ""
+
+#: tpl_contact.php:83
+#@ ptthemes_page_title
+msgid "Your Email (required)"
+msgstr ""
+
+#: tpl_contact.php:88
+#@ ptthemes_page_title
+msgid "Subject"
+msgstr ""
+
+#: tpl_contact.php:92
+#@ ptthemes_page_title
+msgid "Your Message"
+msgstr ""
+
+#: tpl_contact.php:96
+#@ ptthemes_page_title
+msgid "Send"
+msgstr ""
+

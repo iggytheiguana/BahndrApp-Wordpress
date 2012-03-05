@@ -1,0 +1,114 @@
+3rd Oct - 2011 (version : 1.5.2)
+----------------------------------------------
+Create functionality for custom menu
+----------------------------------------------
+style.css
+footer.php
+library/css/superfish.css
+library/functions/widgets_functions.php
+library/includes/header_navigation.php
+skins/1-default.css
+skins/2-green.css
+skins/3-pink.css
+skins/4-yellow.css
+skins/5-red.css
+
+
+28th jan - 2011 (version : 1.5.1)
+----------------------------------------------
+functions.php
+search.php
+sidebar.php
+tpl_contact.php
+404.php
+archive.php
+comments.php
+
+library/functions/yoast-posts.php
+library/functions/custom.php
+library/functions/widgets_functions.php
+library/functions/admin_settings.php
+library/functions/comments_functions.php
+library/functions/admin_options.php
+library/functions/custom_functions.php
+
+library/includes/header_vertical.php
+----------------------------------------------
+
+
+
+changed on 1 September  2010 (iphone new version screen w200xh300 set )
+----------------------------------------------------------------------------
+styel.css
+skins/1-default.css, 2-green.css, 3-pink.css, 4-yellow.css, 5-red.css
+
+images folder image update 
+------------------------------------------
+current.png
+normal.png
+iphone_h.png
+iphone.png
+
+
+
+
+changed on 21nd August 2010 (iphone new version 4 image change)
+------------------------------
+styel.css
+
+
+changed on 22nd july 2010 (dublicate email from contact us page)
+------------------------------
+tpl_contact.php
+
+
+changed on 31st june 2010 (blog pagination problem - solved)
+------------------------------
+library/functions/comments_functions.php
+
+
+22th - May, 2010 (wp 3.0 changes - custom menu navigation - { header  widget },  Theme Compatibility   )
+---------------------------------------------
+
+header.php
+style.css
+skins - folder all css
+library/css/superfish.css
+
+library/functions/widget_functions.php
+library/functions/admin_style.css
+library/functions/admin_functions.php
+
+
+changed on 7th april 2010 (slider not working while install plugins like "Live Countdown Timer" or "Contact Form 7" - solved)
+------------------------------
+header.php
+footer.php
+
+
+changed on 31st march 2010
+------------------------------
+includes/header_navigation.php
+
+
+changed on 26th march 2010
+------------------------------
+archive.php
+footer.php
+library/functions/admin_options.php
+library/includes/
+header_horizontal.php
+header_vertical.php
+header_navigation.php
+
+
+changed on 9th march 2010
+------------------------------
+style.css
+tpl_contact.php
+
+
+
+changed on 5th march 2010
+------------------------------
+auto_install.php
